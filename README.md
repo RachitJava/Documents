@@ -1,4 +1,4 @@
-##Some GIT commands
+## Some GIT commands
 ### When you are getting some pubspec.lock related issue
 - git pull origin master --rebase
 - git clean -f
